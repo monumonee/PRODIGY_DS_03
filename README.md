@@ -5,5 +5,3 @@ Task : Build a decision tree classifier to predict whether a customer will purch
 
 
 
-https://github.com/PINAKIMATHAN/PRODIGY_DS_03-Intern-Pinaki-Jupyter-Lab-TASK-03/assets/107812574/23d79871-d711-4460-977b-a3fc872f4e9f
-
